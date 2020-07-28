@@ -1,0 +1,9 @@
+#include<iostream>
+#include<conio.h>
+int main()
+{
+    clrscr();
+    cout << "welcome in c++";
+    cout << "How are you?";
+    cout << "BYE";
+}
